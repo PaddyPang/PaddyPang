@@ -59,6 +59,6 @@ I miss the old days when I couldn't tell.
 
 
 <p align="left">
-  <img width=450 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaddyPang&layout=compact&theme=dark" />
-  <a href="https://app.daily.dev/pyjyingjie"><img src="https://api.daily.dev/devcards/v2/bpDJs1Fn22G66fJVkXHjt.png?r=1b9&type=wide" width="450" alt="PaddyPang's Dev Card"/></a>
+  <img height=230 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaddyPang&layout=compact&theme=dark" />
+  <a href="https://app.daily.dev/pyjyingjie"><img src="https://api.daily.dev/devcards/v2/bpDJs1Fn22G66fJVkXHjt.png?r=1b9&type=wide" height="230" alt="PaddyPang's Dev Card"/></a>
 </p>
