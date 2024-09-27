@@ -56,9 +56,3 @@ I miss the old days when I couldn't tell.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="26" height="26" /></picture></a>
 </p>
-
-
-<p align="left">
-  <a href="https://github.com/PaddyPang" target="_blank" rel="noreferrer"><img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaddyPang&layout=compact&theme=light" /></a>
-  <a href="https://app.daily.dev/pyjyingjie"><img src="https://api.daily.dev/devcards/v2/bpDJs1Fn22G66fJVkXHjt.png?type=wide&r=qas" height="200" alt="PaddyPang's Dev Card"/></a>
-</p>
